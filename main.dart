@@ -52,7 +52,7 @@ class MyHomePage extends StatelessWidget {
 
 
               SizedBox(
-                height: 70,
+                height: 65,
               ),
                Container(
                  
